@@ -7,7 +7,7 @@ import TrackVisibility from 'react-on-screen';
 
 export const Projects = () => {
 
-    return (
+        return (
         <section className="project" id="project">
         <Container>
             <Row>
@@ -63,7 +63,7 @@ export const Projects = () => {
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque quam, quod neque provident velit, rem explicabo excepturi id illo molestiae blanditiis, eligendi dicta officiis asperiores delectus quasi inventore debitis quo.</p>
                         <Row>
                             {
-                            projectsTWO.map((project, index) => {
+                            projectsTHREE.map((project, index) => {
                                 return (
                                 <ProjectCard
                                     key={index}

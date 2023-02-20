@@ -18,7 +18,7 @@ export const projects = [
         imgUrl: projImg2,
     },
     {
-        title: "JavaScript: Password Generator",
+        title: "Password Generator",
         description: "This application enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and features dynamically updated HTML and CSS powered by JavaScript code written by me. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.",
         imgUrl: projImg3,
     },
@@ -51,7 +51,7 @@ export const projectsTWO = [
         imgUrl: projImg2,
     },
     {
-        title: "JavaScript: Password Generator",
+        title: "Password Generator",
         description: "This application enables employees to generate random passwords based on criteria that they’ve selected. This app will run in the browser and features dynamically updated HTML and CSS powered by JavaScript code written by me. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.",
         imgUrl: projImg3,
     },

@@ -57,7 +57,7 @@ export const NavBar = () => {
                   </Nav.Link>
 
                   <Nav.Link 
-                    href="#projects" 
+                    href="#project" 
                     className={activeLink === 'projects' ? 'active navbar-link' : 'navbar-link'} 
                     onClick={() => updateActiveLink('projects')}
                     >Projects
