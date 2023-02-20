@@ -63,12 +63,6 @@ export const NavBar = () => {
                     >Projects
                   </Nav.Link>
 
-                  <Nav.Link 
-                    href="#Contact" 
-                    className={activeLink === 'projects' ? 'active navbar-link' : 'navbar-link'} 
-                    onClick={() => updateActiveLink('contact')}
-                    >Contact Me
-                  </Nav.Link>
                 </Nav>
                 
                   <span className='navbar-text'>
@@ -84,7 +78,6 @@ export const NavBar = () => {
                     </HashLink> 
                   </span>
                   
-              
               </Navbar.Collapse>
             </Container>
           </Navbar>
